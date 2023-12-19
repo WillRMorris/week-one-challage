@@ -1,1 +1,1 @@
-# week-one-challage
+# week-one-challenge
