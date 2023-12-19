@@ -6,3 +6,4 @@
 - gave all the images IDs hopefully helpful to screen readers to increase accessability. 
 - gave the website a comprehensive title that should be optomised for search engines.
 - overall focused accessability for both user and provider.
+-  code in CSS Header section regarding the flex property was drawn from several articles on stack overflow, and looking at the U of U home site header code.
